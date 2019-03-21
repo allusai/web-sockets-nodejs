@@ -1,0 +1,11 @@
+{
+  "scripts": {
+	"start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
